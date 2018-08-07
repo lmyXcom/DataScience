@@ -1,6 +1,6 @@
 horse_test = 'C://Users//Minyeong Lee//Desktop//horse-colic_data.txt'
-horse_test2 = 'C://Users//Minyeong Lee//Desktop//horse-colic_data_2.txt'
-horse_test3 = 'C://Users//Minyeong Lee//Desktop//horse-colic_test_2.txt'
+horse_test2 = 'C://Users//계정명//Desktop//horse-colic_data_2.txt'
+horse_test3 = 'C://Users//계정명//Desktop//horse-colic_test_2.txt'
 test = read.table(horse_test, header=T)
 test3 = read.table(horse_test3, header=T)
 head(test)
